@@ -1,0 +1,226 @@
+html, body{
+	width: auto;
+	height: 100%;
+	margin: 0%;
+}
+body{
+	background: rgba(0,0,0,0.5) url('https://media.cntraveler.com/photos/5819f0946928748a1e19f05a/master/pass/Exterior1-RosewoodLondon-London-CRHotel.jpg');
+	background-position: center;
+	background-repeat: round;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+nav{
+	background-color: red;
+	width: 100%;
+	display: table;
+	vertical-align: middle;
+}
+input, select{
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+	height: 25px;
+	border: none;
+}
+#home{
+	color: white;
+	font-weight: bolder;
+	font-size: xx-large;
+	text-decoration-line: none;
+}
+#welcome-sign-a{
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+	margin-bottom: -100px;
+	font-size: 375%;
+}
+#welcome-sign-b{
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 750%;
+}
+#address{
+	color: white;
+	text-align: center;
+	margin-top: 5%;
+}
+#submit-cell{
+	padding: 0.85%
+}
+#direction-link{
+	color: white;
+	text-decoration-line: none;
+}
+#title-cell{
+	height: 5%;
+}
+#golf-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-golf-0219-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#volleyball-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-volleyball-0028-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#splashzone-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-slide-0167-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#pool-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-laser-7435-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#legoland-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-attraction-legoland-0108-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#seaworld-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-attraction-seaworld-0112-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#discovey-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-attraction-discovery-0113-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#beach-cell{
+	background: rgba(0,0,0,0.2) url('https://images.trvl-media.com/hotels/25000000/24400000/24397900/24397845/9de20384_z.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#reception-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-reception-4587-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#fitness-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-fitness-0209-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#cabanas-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-cabanas-8169-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#wedding-cell{
+	background: rgba(0,0,0,0.2) url('https://cache.marriott.com/marriottassets/marriott/MCOWC/mcowc-romance-0201-hor-clsc.jpg?downsize=1440px:*');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: darken;
+}
+#room-table-header{
+	font-size: 40px;
+}
+#customer-form{
+	text-align: center;
+	top: 2%;
+	width: 100%;
+	
+}
+.booking-table{
+	table-layout: fixed;
+	position: relative;
+	border-collapse:collapse;
+	margin-left: auto;
+	margin-right: auto;
+	top: 50%;
+	text-align: center;
+	color: white;
+	width: 75%;
+}
+.button{
+	background-color: red;
+	border: none;
+	color: white;
+	font-size: large;
+}
+.nav-table{
+	table-layout: auto;
+	position: inherit;
+	border-collapse:collapse;
+	margin-left: 0.5%;
+	text-align: center;
+	width: 50%;
+}
+.nav-links{
+	color: white;
+	font-weight: bold;
+	font-size: x-large;
+	text-decoration-line: none;
+}
+.activity-table{
+	table-layout: fixed;
+	position: relative;
+	border-collapse:collapse;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 75%;
+	height: 90%;
+	color: white;
+	font-size: 50px
+}
+.room-table{
+	table-layout: fixed;
+	position: relative;
+	border-collapse:collapse;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	text-align: center;
+	background-color: white;
+	width: 95%;
+	height: auto;
+	color: black;
+	font-size: 20px
+}
+.cart{
+	position: sticky;
+	width: 25%;
+	height: 50%;
+	margin-left: 5%;
+	background-color: white;
+}
+.room-pics{
+	width: 100px;
+	height: auto;
+}
+#home:hover, #dirction-link:hover, .nav-links:hover{
+	color: yellow;
+}
